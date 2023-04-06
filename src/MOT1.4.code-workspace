@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../MOT1.4"
+		},
+		{
+			"name": "MOT1.3",
+			"path": "../../MOT1.3"
+		},
+		{
+			"name": "ButtonVac",
+			"path": "../../ButtonVac"
+		},
+		{
+			"name": "Tablo2812",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
